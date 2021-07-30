@@ -1,0 +1,15 @@
+.wrap{
+    width: 800px;
+    margin: 0 auto;
+    background-color: azure;
+}
+
+.inputText{
+    width: 100%;
+}
+
+.output{
+    min-height: 150px;
+    border: 1px solid gray;
+    background-color: white;
+}
